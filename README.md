@@ -1,7 +1,7 @@
 # Rogue Pickings Static Site
 ## This is the second static site I created in Skillcrush classes.
 
-### View the [live project here.](https://kirstendarling.github.io/rogue-aka-second-static-website/)
+### View the [live project here.](https://kirstendarling.github.io/Rogue-Pickings-Static-Site/)
 
 ### Screenshot
 
